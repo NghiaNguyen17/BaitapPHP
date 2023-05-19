@@ -12,5 +12,10 @@
     $number = 3;
     echo $number;
     ?>
+    <br>
+    <?php
+    $xinChao='Xin Chao';
+    var_dump($xinChao);
+    ?>
 </body>
 </html>
