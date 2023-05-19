@@ -9,6 +9,8 @@
 <body>
     <?php
     echo "xin chao";
+    $number = 3;
+    echo $number;
     ?>
 </body>
 </html>
